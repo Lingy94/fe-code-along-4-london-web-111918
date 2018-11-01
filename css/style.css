@@ -125,7 +125,9 @@ img, video, audio {
 header {
   position: fixed; 
   top: 0;
-  
+  left: 0;
+  wdith: 100%;
+  background: #fff;
 }
 
 section {
